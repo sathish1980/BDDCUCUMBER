@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cumberwithBDD.BDDFRAMEWORK.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 35.953 sec
